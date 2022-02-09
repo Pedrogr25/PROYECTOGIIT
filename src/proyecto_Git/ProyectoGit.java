@@ -7,6 +7,8 @@ public class ProyectoGit {
 		System.out.println("Commit inicial");
 		System.out.println("creada rama PEDRO");
 		System.out.println("creada la rama PGR");
+		
+		System.out.println("Esto es la rama");
 
 	}
 
